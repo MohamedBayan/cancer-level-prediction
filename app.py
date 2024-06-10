@@ -14,7 +14,7 @@ selected_option = st.selectbox(
     [
         'decision_tree_model',
         'gradient_boosting_model',
-        'nearest_neighbors_model',
+        'k-nearest_neighbors_model',
         'Neural Network',
         'multilayer_perceptron_model',
         'naive_bayes_model',
